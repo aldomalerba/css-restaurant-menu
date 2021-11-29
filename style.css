@@ -52,7 +52,7 @@ body{
     border-top-left-radius: 60px;
     border-bottom-left-radius: 60px;
     position: absolute;
-    left: calc(100% - 60px - 20px);
+    left: calc(100% - 78px);
     top: calc(100% - 45px);
     background-color: rgb(83, 141, 1);
     color: #fff;
